@@ -1,0 +1,16 @@
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\bin\Debug\CryptoPro.exe.config
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\bin\Debug\CryptoPro.exe
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\bin\Debug\CryptoPro.pdb
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.Form1.resources
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.Properties.Resources.resources
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.csproj.GenerateResource.cache
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.csproj.CoreCompileInputs.cache
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.exe
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.pdb
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.csprojAssemblyReference.cache
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.csproj.CopyComplete
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\obj\Debug\CryptoPro.Form2.resources
+C:\Users\Elite Dev\Desktop\CryptoPro\CryptoPro\CryptoPro\bin\Debug\Crypto_Watch1.accdb
